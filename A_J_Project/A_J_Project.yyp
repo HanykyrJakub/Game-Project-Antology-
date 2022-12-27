@@ -5,10 +5,11 @@
   "resources": [
     {"id":{"name":"field","path":"objects/field/field.yy",},"order":1,},
     {"id":{"name":"Show_off","path":"rooms/Show_off/Show_off.yy",},"order":0,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":15,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":2,},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":2,},
+    {"id":{"name":"gun","path":"sprites/gun/gun.yy",},"order":2,},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},"order":1,},
     {"id":{"name":"Field","path":"sprites/Field/Field.yy",},"order":1,},
   ],
   "Options": [
