@@ -15,9 +15,14 @@ Zde již autor popisuje vlastní pravidla hry. Jednotlivým objektům určuje vl
 
 3. Grafika
 
-Zde se určuje software (Krita, Gimp, Aseprite…) a hardware (PC, grafický tablet…), které budou sloužit pro tvorbu grafiky hry (objekty, prostředí, efekty…).
+Postavy jsou kresleny pomocí Pixel-art online creator na stránce: (https://www.pixilart.com/) na PC
+Návrhy postavy a zbraně:
 
-Součástí této kapitoly jsou jak např. rukou kreslené návrhy, skici, tak i v dalších fázích vývoje hotové grafické materiály, které se používají ve hře.
+
+![Gun](https://user-images.githubusercontent.com/90202111/209694277-258919a8-2845-4b10-9ff1-2d5110c67b9f.png)
+
+![player](https://user-images.githubusercontent.com/90202111/209694314-30051136-e92f-424a-b21d-b4cb6ac32410.png)
+
 
 4. Zvuky (Audacity)
 
