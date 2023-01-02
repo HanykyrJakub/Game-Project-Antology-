@@ -36,20 +36,21 @@ Návrhy postavy a zbraně a nepřítele:
 ![Gun](https://user-images.githubusercontent.com/90202111/210244446-9f3f44c9-b812-4d32-98d2-3dddc8b3fd84.png)
 
 
-4. Zvuky (Audacity)
+4. Zvuky
 
 SW: Audacity, HW: PC
-Ukázka : https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/audio
+Ukázka zvuků chůze po trávě: https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/audio
 
-5. Hudba (LMMS)
+5. Hudba
 
-Vybere se software (např. LMMS) a hardware (klávesnice, myš, keyboard, tablet…) a začne se komponovat muzika. Nejprve se však určí koncepce. To znamená, například jaký žánr vybereme, kdy budeme muziku a jak hlasitě pouštět atp.
+SW: LMMS, HW:PC
+Pro jednotlivá prostředí jsou pro hudbu důležité např. Les bude veselá hudba, poušť nabídné tropickou nebo hudbu blízkého východu a pro industriární věž rocková nebo tvrdá hudba.
 
-Opět se zde nachází například několik verzí skladby do menu hry. Nakonec se vybere a upraví ta finální.
 
-6. Godot
+6. GameMaker Studio 2
 
-Zde se již tvoří samotná hra. Tedy Grafika, zvuk a logika hry se v Game Engine skládá dohromady v počítačovou hru. Samozřejmě se nejprve vytváří různé prototypy například pro menu, pro pohyb postavy, pro střelbu, nebo jen pro výbuch atp., na kterých se testuje daná funkčnost.
+![Testovací místnost](https://user-images.githubusercontent.com/90202111/210251993-092a5f6c-fb73-44f2-bab3-96c57279fb72.JPG)
+
 
 7. Propagace (video, bannery…)
 
