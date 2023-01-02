@@ -10,9 +10,16 @@ __Hratelnost:__ Hra je postavena na několika prvcích: skákání střelba z pa
 __Vývoj__: 2D 
 
 __Zasazení__: Hra bude zasazena vmoderním alternativním světě
- __Hratelnost__
 
-__1.2.1 Skákání__ Hráč se bude vlevelu pohybovat pomocí platform, přes překážky vdaném prostředí např. (les, poušť a industriální věž)1.2.2Střelba zpalných zbraní Hráčská postava bude využívat 2 druhy zbraní: Střelné a ruční Příklady střelných: Pistole, pušky a brokovnice Příklady Ručních: nůž, páčidlo
+__Hratelnost__
+
+__1.2.1 Skákání__ Hráč se bude vlevelu pohybovat pomocí platform, přes překážky vdaném prostředí např. (les, poušť a industriální věž)
+
+1.2.2Střelba zpalných zbraní Hráčská postava bude využívat 2 druhy zbraní: Střelné a ruční 
+
+Příklady střelných: Pistole, pušky a brokovnice 
+
+Příklady Ručních: nůž, páčidlo
 
 __1.2.3 Boj s nepřáteli__ Nepřátelé budou lidští vojáci a nemrtvá hrozba. Na konci Kapitoly budou zakončeny bossfightem.
 
