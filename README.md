@@ -39,6 +39,7 @@ Návrhy postavy a zbraně a nepřítele:
 4. Zvuky (Audacity)
 
 SW: Audacity, HW: PC
+Ukázka : https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/audio
 
 5. Hudba (LMMS)
 
