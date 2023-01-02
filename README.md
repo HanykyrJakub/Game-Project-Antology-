@@ -15,7 +15,7 @@ __Hratelnost__
 
 __1.2.1 Skákání__ Hráč se bude vlevelu pohybovat pomocí platform, přes překážky vdaném prostředí např. (les, poušť a industriální věž)
 
-1.2.2Střelba zpalných zbraní Hráčská postava bude využívat 2 druhy zbraní: Střelné a ruční 
+__1.2.2 Střelba zpalných zbraní__: Hráčská postava bude využívat 2 druhy zbraní: Střelné a ruční 
 
 Příklady střelných: Pistole, pušky a brokovnice 
 
@@ -34,7 +34,7 @@ Návrhy postavy a zbraně a nepřítele:
 
 ![Zombie](https://user-images.githubusercontent.com/90202111/210244431-f36fecf2-e561-4162-9e07-c1ea6a3cb55b.JPG)
 
-![Gun](https://user-images.githubusercontent.com/90202111/210244446-9f3f44c9-b812-4d32-98d2-3dddc8b3fd84.png)
+![gun](https://user-images.githubusercontent.com/90202111/210254275-10a7cbfa-ac55-438a-bb9c-9fb444391526.JPG)
 
 
 4. Zvuky
