@@ -37,6 +37,10 @@ Návrhy postavy a zbraně a nepřítele:
 ![gun](https://user-images.githubusercontent.com/90202111/210254275-10a7cbfa-ac55-438a-bb9c-9fb444391526.JPG)
 
 
+Předloha pro Políčka na ploše
+![tileset](https://user-images.githubusercontent.com/90202111/227730125-a1d334e0-a3a7-4406-8772-92c93fd91cef.png)
+
+
 4. Zvuky
 
 SW: Audacity, HW: PC
