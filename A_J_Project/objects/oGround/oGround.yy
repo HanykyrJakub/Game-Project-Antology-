@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWall",
+  "name": "oGround",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
