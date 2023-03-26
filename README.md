@@ -39,6 +39,7 @@ Návrhy postavy a zbraně a nepřítele:
 
 Předloha pro Políčka na ploše
 ![tileset](https://user-images.githubusercontent.com/90202111/227730125-a1d334e0-a3a7-4406-8772-92c93fd91cef.png)
+Užitý Tileset:
 
 
 4. Zvuky
@@ -46,6 +47,7 @@ Předloha pro Políčka na ploše
 SW: Audacity, HW: PC
 
 Ukázka zvuků chůze po trávě: https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/audio
+Střelba ze zbraně: 
 
 5. Hudba
 
