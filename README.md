@@ -39,15 +39,13 @@ Návrhy postavy a zbraně a nepřítele:
 
 Předloha pro Políčka na ploše
 ![tileset](https://user-images.githubusercontent.com/90202111/227730125-a1d334e0-a3a7-4406-8772-92c93fd91cef.png)
-Užitý Tileset:
-
 
 4. Zvuky
 
-SW: Audacity, HW: PC
+__SW: Audacity, HW: PC__
 
 Ukázka zvuků chůze po trávě: https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/audio
-Střelba ze zbraně: 
+Střelba ze zbraně: https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/audio
 
 5. Hudba
 
@@ -61,13 +59,18 @@ Pro jednotlivá prostředí jsou pro hudbu důležité např. Les bude veselá h
 ![Testovací místnost](https://user-images.githubusercontent.com/90202111/210251993-092a5f6c-fb73-44f2-bab3-96c57279fb72.JPG)
 
 Ukázka z Prototypu: https://github.com/HanykyrJakub/Game-Project-Antology-/tree/main/Prototype%20Videos
+Ve videu Test_003 Testuji Background - reakce nepřátel na zásah, Správně by po několika zásazích by měl nepřítel zmizet. 
 
-7. Propagace (video, bannery…)
+##7. Propagace (video, bannery…)##
 
 První sada Bannerů:
 ![Hell_Anthology (1)](https://user-images.githubusercontent.com/90202111/227766968-c824b7d8-c6b3-40bb-9afd-104c334b117a.png)
 ![Hell_Anthology__2](https://user-images.githubusercontent.com/90202111/227766971-34747f5d-aab8-4260-a477-fc842d62483d.png)
 
+
+Plánované Upgrady:
+1. Transition (50% hotovo)
+2. Menu (napsaný koncept)
 
 8. Finální hra
 
