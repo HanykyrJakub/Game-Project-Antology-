@@ -62,7 +62,10 @@ Ukázka z Prototypu: https://github.com/HanykyrJakub/Game-Project-Antology-/tree
 
 7. Propagace (video, bannery…)
 
-Pokud jsou první fáze hry hotovy, je dobré hru začít propagovat. Součástí propagace mohou být webové stránky, systém interaktivních bannerů, video atp.
+První sada Bannerů:
+![Hell_Anthology (1)](https://user-images.githubusercontent.com/90202111/227766968-c824b7d8-c6b3-40bb-9afd-104c334b117a.png)
+![Hell_Anthology__2](https://user-images.githubusercontent.com/90202111/227766971-34747f5d-aab8-4260-a477-fc842d62483d.png)
+
 
 8. Finální hra
 
